@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="msg_current_currency">Текущий курс USD к RUB</string>
+    <string name="err_get_currency">Сервер не отвечает. Загрузка валюты не удалась</string>
+    <string name="currency_value_text">Введите сумму для перевода</string>
+    <string name="usd_rub_text"><![CDATA[USD -> RUB]]></string>
+    <string name="rub_usd_text"><![CDATA[RUB -> USD]]></string>
+    <string name="result_text">Результат:</string>
+    <string name="wrong_values_text">Значения введены неверно или значение валюты ещё не получено. Попробуйте еще разочек</string>
+    <string name="enter_currency_number_text">Введите валюту для перевода</string>
+</resources>
