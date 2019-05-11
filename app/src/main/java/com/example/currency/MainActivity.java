@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button btnRubToUsd = findViewById(R.id.btnRubToUsd);
         btnRubToUsd.setOnClickListener(this);
         btnUsdToRub.setOnClickListener(this);
-
+        //retrofit builder
         retrofit = new Retrofit.Builder()
                 .baseUrl(API_URL)
                 .addConverterFactory(GsonConverterFactory.create())

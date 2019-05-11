@@ -2,7 +2,7 @@ package com.example.currency.model;
 
 import java.util.HashMap;
 import java.util.Map;
-
+// POJO
 public class Currency {
 
     private Boolean success;
